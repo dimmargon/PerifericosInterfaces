@@ -1,5 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
 using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Runtime.CompilerServices.RuntimeHelpers;
 
@@ -10,12 +16,16 @@ namespace p4
         public int keycode;
         public char pressedKey;
         public Point latestPoint;
+        public Point currentPosition;
         public int arriba;
         Graphics g;
 
         public Form1()
         {
             InitializeComponent();
+            EntryTbx.KeyDown += EntryTbx_KeyDown;
+            EntryTbx.KeyPress += EntryTbx_KeyPress;
+            EntryTbx.KeyUp += EntryTbx_KeyUp;
         }
         
         private void EntryTbx_KeyDown(object sender, KeyEventArgs e)
@@ -37,6 +47,7 @@ namespace p4
             pressedKey = ' ';
             EntryTbx.Text = "";
             StatusTbx.Text = "";
+
         }
 
         private void pictureBox1_MouseDown(object sender, MouseEventArgs e)
@@ -61,9 +72,8 @@ namespace p4
         {
             if (arriba == 1)
             {
-                g.DrawLine(Pens.Red, latestPoint, e.Location);
+                currentPosition = new Point(e.X, e.Y);
                 pictureBox1.Refresh();
-                g.DrawLine(Pens.Red, latestPoint, e.Location);
             }
 
 
@@ -84,6 +94,16 @@ namespace p4
             {
                 label7.ForeColor = Color.Black;
             }
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void EntryTbx_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

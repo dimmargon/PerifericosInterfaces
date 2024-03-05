@@ -117,6 +117,7 @@
             this.label2.Size = new System.Drawing.Size(51, 13);
             this.label2.TabIndex = 21;
             this.label2.Text = "Left-Click";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label1
             // 
@@ -165,6 +166,7 @@
             this.EntryTbx.Name = "EntryTbx";
             this.EntryTbx.Size = new System.Drawing.Size(163, 20);
             this.EntryTbx.TabIndex = 15;
+            this.EntryTbx.TextChanged += new System.EventHandler(this.EntryTbx_TextChanged);
             // 
             // Form1
             // 
