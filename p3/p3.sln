@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p3", "p3.csproj", "{0306744C-ED77-4BCF-BCDE-524E2CA4DCDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{60BDF7EC-2729-406E-AA2B-EEA960745214}"
+	ProjectSection(SolutionItems) = preProject
+		G:\Mi unidad\US\3º\PI\practicas\Software\p3\hyperic-sigar-1.6.4\bindings\dotnet\examples\CpuInfo.cs = G:\Mi unidad\US\3º\PI\practicas\Software\p3\hyperic-sigar-1.6.4\bindings\dotnet\examples\CpuInfo.cs
+		G:\Mi unidad\US\3º\PI\practicas\Software\p3\hyperic-sigar-1.6.4\bindings\dotnet\examples\Df.cs = G:\Mi unidad\US\3º\PI\practicas\Software\p3\hyperic-sigar-1.6.4\bindings\dotnet\examples\Df.cs
+		G:\Mi unidad\US\3º\PI\practicas\Software\p3\hyperic-sigar-1.6.4\bindings\dotnet\examples\Free.cs = G:\Mi unidad\US\3º\PI\practicas\Software\p3\hyperic-sigar-1.6.4\bindings\dotnet\examples\Free.cs
+		G:\Mi unidad\US\3º\PI\practicas\Software\p3\hyperic-sigar-1.6.4\bindings\dotnet\examples\Ifconfig.cs = G:\Mi unidad\US\3º\PI\practicas\Software\p3\hyperic-sigar-1.6.4\bindings\dotnet\examples\Ifconfig.cs
+		G:\Mi unidad\US\3º\PI\practicas\Software\p3\hyperic-sigar-1.6.4\bindings\dotnet\src\Sigar.cs = G:\Mi unidad\US\3º\PI\practicas\Software\p3\hyperic-sigar-1.6.4\bindings\dotnet\src\Sigar.cs
+		G:\Mi unidad\US\3º\PI\practicas\Software\p3\sigar.dll = G:\Mi unidad\US\3º\PI\practicas\Software\p3\sigar.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0306744C-ED77-4BCF-BCDE-524E2CA4DCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0306744C-ED77-4BCF-BCDE-524E2CA4DCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0306744C-ED77-4BCF-BCDE-524E2CA4DCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0306744C-ED77-4BCF-BCDE-524E2CA4DCDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6ABF46B-A8BA-4FCC-999B-CB8450D861A5}
+	EndGlobalSection
+EndGlobal
