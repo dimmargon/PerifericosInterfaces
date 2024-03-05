@@ -1,0 +1,10 @@
+C:\Users\dimas\Desktop\PI2324\p4\obj\Debug\p4.csproj.AssemblyReference.cache
+C:\Users\dimas\Desktop\PI2324\p4\obj\Debug\p4.Form1.resources
+C:\Users\dimas\Desktop\PI2324\p4\obj\Debug\p4.Properties.Resources.resources
+C:\Users\dimas\Desktop\PI2324\p4\obj\Debug\p4.csproj.GenerateResource.cache
+C:\Users\dimas\Desktop\PI2324\p4\obj\Debug\p4.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Desktop\PI2324\p4\bin\Debug\p4.exe.config
+C:\Users\dimas\Desktop\PI2324\p4\bin\Debug\p4.exe
+C:\Users\dimas\Desktop\PI2324\p4\bin\Debug\p4.pdb
+C:\Users\dimas\Desktop\PI2324\p4\obj\Debug\p4.exe
+C:\Users\dimas\Desktop\PI2324\p4\obj\Debug\p4.pdb
