@@ -15,19 +15,15 @@ namespace p4
     {
         public int keycode;
         public char pressedKey;
-        public Point latestPoint;
+        public Point clickPosition;
         public Point currentPosition;
-        public int arriba;
-        Graphics g;
+        Pen penR = new Pen(Color.Red);
 
         public Form1()
         {
             InitializeComponent();
-            EntryTbx.KeyDown += EntryTbx_KeyDown;
-            EntryTbx.KeyPress += EntryTbx_KeyPress;
-            EntryTbx.KeyUp += EntryTbx_KeyUp;
         }
-        
+
         private void EntryTbx_KeyDown(object sender, KeyEventArgs e)
         {
             keycode = e.KeyValue;
@@ -55,27 +51,23 @@ namespace p4
 
             if (e.Button.ToString().Equals("Left"))
             {
-                label2.ForeColor = Color.Green;
+                leftClick.ForeColor = Color.Green;
             }
             if (e.Button.ToString().Equals("Middle"))
             {
-                label6.ForeColor = Color.Green;
+                middleClick.ForeColor = Color.Green;
             }
             if (e.Button.ToString().Equals("Right"))
             {
-                label7.ForeColor = Color.Green;
+                rightClick.ForeColor = Color.Green;
             }
 
 
         }
         private void pictureBox1_MouseMove(object sender, MouseEventArgs e)
         {
-            if (arriba == 1)
-            {
-                currentPosition = new Point(e.X, e.Y);
-                pictureBox1.Refresh();
-            }
-
+            currentPosition = new Point(e.X, e.Y);
+            pictureBox1.Refresh();
 
         }
 
@@ -84,15 +76,15 @@ namespace p4
 
             if (e.Button.ToString().Equals("Left"))
             {
-                label2.ForeColor = Color.Black;
+                leftClick.ForeColor = Color.Black;
             }
             if (e.Button.ToString().Equals("Middle"))
             {
-                label6.ForeColor = Color.Black;
+                middleClick.ForeColor = Color.Black;
             }
             if (e.Button.ToString().Equals("Right"))
             {
-                label7.ForeColor = Color.Black;
+                rightClick.ForeColor = Color.Black;
             }
         }
 
@@ -104,6 +96,26 @@ namespace p4
         private void EntryTbx_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void EntryTbx_MouseClick(object sender, MouseEventArgs e)
+        {
+            EntryTbx.Text = "";
+        }
+
+        private void pictureBox1_Paint(object sender, PaintEventArgs e)
+        {
+            e.Graphics.DrawLine(penR, clickPosition, currentPosition);
+        }
+
+        private void pictureBox1_MouseClick(object sender, MouseEventArgs e)
+        {
+            clickPosition = new Point(e.X, e.Y);
         }
     }
 }
