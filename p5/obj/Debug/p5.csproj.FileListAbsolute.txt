@@ -1,0 +1,10 @@
+C:\Users\dimas\Desktop\PI2324\p5\bin\Debug\p5.exe.config
+C:\Users\dimas\Desktop\PI2324\p5\bin\Debug\p5.exe
+C:\Users\dimas\Desktop\PI2324\p5\bin\Debug\p5.pdb
+C:\Users\dimas\Desktop\PI2324\p5\obj\Debug\p5.csproj.AssemblyReference.cache
+C:\Users\dimas\Desktop\PI2324\p5\obj\Debug\p5.Form1.resources
+C:\Users\dimas\Desktop\PI2324\p5\obj\Debug\p5.Properties.Resources.resources
+C:\Users\dimas\Desktop\PI2324\p5\obj\Debug\p5.csproj.GenerateResource.cache
+C:\Users\dimas\Desktop\PI2324\p5\obj\Debug\p5.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Desktop\PI2324\p5\obj\Debug\p5.exe
+C:\Users\dimas\Desktop\PI2324\p5\obj\Debug\p5.pdb
