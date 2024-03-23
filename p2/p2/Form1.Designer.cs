@@ -30,7 +30,6 @@
         {
             this.btn_DatosSis = new System.Windows.Forms.Button();
             this.btn_Cerrar = new System.Windows.Forms.Button();
-            this.btn_Acerca = new System.Windows.Forms.Button();
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.SuspendLayout();
             // 
@@ -54,16 +53,6 @@
             this.btn_Cerrar.UseVisualStyleBackColor = true;
             this.btn_Cerrar.Click += new System.EventHandler(this.btn_Cerrar_Click);
             // 
-            // btn_Acerca
-            // 
-            this.btn_Acerca.Location = new System.Drawing.Point(585, 289);
-            this.btn_Acerca.Name = "btn_Acerca";
-            this.btn_Acerca.Size = new System.Drawing.Size(75, 23);
-            this.btn_Acerca.TabIndex = 2;
-            this.btn_Acerca.Text = "Acerca de...";
-            this.btn_Acerca.UseVisualStyleBackColor = true;
-            this.btn_Acerca.Click += new System.EventHandler(this.btn_Acerca_Click);
-            // 
             // richTextBox1
             // 
             this.richTextBox1.Location = new System.Drawing.Point(109, 90);
@@ -79,7 +68,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.richTextBox1);
-            this.Controls.Add(this.btn_Acerca);
             this.Controls.Add(this.btn_Cerrar);
             this.Controls.Add(this.btn_DatosSis);
             this.Name = "Form1";
@@ -92,7 +80,6 @@
 
         private System.Windows.Forms.Button btn_DatosSis;
         private System.Windows.Forms.Button btn_Cerrar;
-        private System.Windows.Forms.Button btn_Acerca;
         private System.Windows.Forms.RichTextBox richTextBox1;
     }
 }

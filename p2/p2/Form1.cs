@@ -37,11 +37,5 @@ namespace p2
         {
             this.Close();
         }
-
-        private void btn_Acerca_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("ESTE BOTON ES INUTIL... JAJAJA, ADIOS");
-            this.Close();
-        }
     }
 }

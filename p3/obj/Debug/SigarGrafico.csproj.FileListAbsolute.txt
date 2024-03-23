@@ -1,0 +1,19 @@
+E:\Alejandro\Documentos\Carrera\3º\2º Cuatrimestre\Periféricos e Interfaces\Laboratorio\Software\Práctica 3\SigarGrafico\bin\Debug\SigarGrafico.exe.config
+E:\Alejandro\Documentos\Carrera\3º\2º Cuatrimestre\Periféricos e Interfaces\Laboratorio\Software\Práctica 3\SigarGrafico\bin\Debug\SigarGrafico.exe
+E:\Alejandro\Documentos\Carrera\3º\2º Cuatrimestre\Periféricos e Interfaces\Laboratorio\Software\Práctica 3\SigarGrafico\bin\Debug\SigarGrafico.pdb
+E:\Alejandro\Documentos\Carrera\3º\2º Cuatrimestre\Periféricos e Interfaces\Laboratorio\Software\Práctica 3\SigarGrafico\obj\Debug\SigarGrafico.Form1.resources
+E:\Alejandro\Documentos\Carrera\3º\2º Cuatrimestre\Periféricos e Interfaces\Laboratorio\Software\Práctica 3\SigarGrafico\obj\Debug\SigarGrafico.Properties.Resources.resources
+E:\Alejandro\Documentos\Carrera\3º\2º Cuatrimestre\Periféricos e Interfaces\Laboratorio\Software\Práctica 3\SigarGrafico\obj\Debug\SigarGrafico.csproj.GenerateResource.cache
+E:\Alejandro\Documentos\Carrera\3º\2º Cuatrimestre\Periféricos e Interfaces\Laboratorio\Software\Práctica 3\SigarGrafico\obj\Debug\SigarGrafico.csproj.CoreCompileInputs.cache
+E:\Alejandro\Documentos\Carrera\3º\2º Cuatrimestre\Periféricos e Interfaces\Laboratorio\Software\Práctica 3\SigarGrafico\obj\Debug\SigarGrafico.exe
+E:\Alejandro\Documentos\Carrera\3º\2º Cuatrimestre\Periféricos e Interfaces\Laboratorio\Software\Práctica 3\SigarGrafico\obj\Debug\SigarGrafico.pdb
+C:\Users\dimas\Desktop\PI2324\p3\bin\Debug\p3.exe.config
+C:\Users\dimas\Desktop\PI2324\p3\bin\Debug\p3.exe
+C:\Users\dimas\Desktop\PI2324\p3\bin\Debug\p3.pdb
+C:\Users\dimas\Desktop\PI2324\p3\obj\Debug\SigarGrafico.csproj.AssemblyReference.cache
+C:\Users\dimas\Desktop\PI2324\p3\obj\Debug\SigarGrafico.Form1.resources
+C:\Users\dimas\Desktop\PI2324\p3\obj\Debug\p3.Properties.Resources.resources
+C:\Users\dimas\Desktop\PI2324\p3\obj\Debug\SigarGrafico.csproj.GenerateResource.cache
+C:\Users\dimas\Desktop\PI2324\p3\obj\Debug\SigarGrafico.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Desktop\PI2324\p3\obj\Debug\p3.exe
+C:\Users\dimas\Desktop\PI2324\p3\obj\Debug\p3.pdb

@@ -1,0 +1,10 @@
+C:\Users\dimas\Desktop\PI2324\p1_labSoft\p1_labSoft\bin\Debug\p1.exe.config
+C:\Users\dimas\Desktop\PI2324\p1_labSoft\p1_labSoft\bin\Debug\p1.exe
+C:\Users\dimas\Desktop\PI2324\p1_labSoft\p1_labSoft\bin\Debug\p1.pdb
+C:\Users\dimas\Desktop\PI2324\p1_labSoft\p1_labSoft\obj\Debug\p1.csproj.AssemblyReference.cache
+C:\Users\dimas\Desktop\PI2324\p1_labSoft\p1_labSoft\obj\Debug\p1_labSoft.Form1.resources
+C:\Users\dimas\Desktop\PI2324\p1_labSoft\p1_labSoft\obj\Debug\p1.Properties.Resources.resources
+C:\Users\dimas\Desktop\PI2324\p1_labSoft\p1_labSoft\obj\Debug\p1.csproj.GenerateResource.cache
+C:\Users\dimas\Desktop\PI2324\p1_labSoft\p1_labSoft\obj\Debug\p1.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Desktop\PI2324\p1_labSoft\p1_labSoft\obj\Debug\p1.exe
+C:\Users\dimas\Desktop\PI2324\p1_labSoft\p1_labSoft\obj\Debug\p1.pdb
