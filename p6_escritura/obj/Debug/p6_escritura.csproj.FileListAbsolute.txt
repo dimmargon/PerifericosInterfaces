@@ -1,0 +1,7 @@
+C:\Users\dimas\Desktop\PI2324\p6_escritura\bin\Debug\p6_escritura.exe.config
+C:\Users\dimas\Desktop\PI2324\p6_escritura\bin\Debug\p6_escritura.exe
+C:\Users\dimas\Desktop\PI2324\p6_escritura\bin\Debug\p6_escritura.pdb
+C:\Users\dimas\Desktop\PI2324\p6_escritura\obj\Debug\p6_escritura.csproj.AssemblyReference.cache
+C:\Users\dimas\Desktop\PI2324\p6_escritura\obj\Debug\p6_escritura.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Desktop\PI2324\p6_escritura\obj\Debug\p6_escritura.exe
+C:\Users\dimas\Desktop\PI2324\p6_escritura\obj\Debug\p6_escritura.pdb

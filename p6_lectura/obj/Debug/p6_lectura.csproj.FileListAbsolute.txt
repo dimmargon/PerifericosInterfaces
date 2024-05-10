@@ -1,0 +1,7 @@
+C:\Users\dimas\Desktop\PI2324\p6_lectura\bin\Debug\p6_lectura.exe.config
+C:\Users\dimas\Desktop\PI2324\p6_lectura\bin\Debug\p6_lectura.exe
+C:\Users\dimas\Desktop\PI2324\p6_lectura\bin\Debug\p6_lectura.pdb
+C:\Users\dimas\Desktop\PI2324\p6_lectura\obj\Debug\p6_lectura.csproj.AssemblyReference.cache
+C:\Users\dimas\Desktop\PI2324\p6_lectura\obj\Debug\p6_lectura.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Desktop\PI2324\p6_lectura\obj\Debug\p6_lectura.exe
+C:\Users\dimas\Desktop\PI2324\p6_lectura\obj\Debug\p6_lectura.pdb

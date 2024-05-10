@@ -1,0 +1,14 @@
+C:\Users\dimas\Desktop\PI2324\p6_S1\bin\Debug\p6_S1.exe.config
+C:\Users\dimas\Desktop\PI2324\p6_S1\bin\Debug\p6_S1.exe
+C:\Users\dimas\Desktop\PI2324\p6_S1\bin\Debug\p6_S1.pdb
+C:\Users\dimas\Desktop\PI2324\p6_S1\obj\Debug\p5_ej1.csproj.AssemblyReference.cache
+C:\Users\dimas\Desktop\PI2324\p6_S1\obj\Debug\p5_ej1.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Desktop\PI2324\p6_S1\obj\Debug\p6_S1.exe
+C:\Users\dimas\Desktop\PI2324\p6_S1\obj\Debug\p6_S1.pdb
+C:\Users\dimas\Desktop\PI2324\p5_ej1\bin\Debug\p5_ej1.exe.config
+C:\Users\dimas\Desktop\PI2324\p5_ej1\bin\Debug\p5_ej1.exe
+C:\Users\dimas\Desktop\PI2324\p5_ej1\bin\Debug\p5_ej1.pdb
+C:\Users\dimas\Desktop\PI2324\p5_ej1\obj\Debug\p5_ej1.csproj.AssemblyReference.cache
+C:\Users\dimas\Desktop\PI2324\p5_ej1\obj\Debug\p5_ej1.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Desktop\PI2324\p5_ej1\obj\Debug\p5_ej1.exe
+C:\Users\dimas\Desktop\PI2324\p5_ej1\obj\Debug\p5_ej1.pdb

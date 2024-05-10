@@ -1,0 +1,15 @@
+C:\Users\dimas\Desktop\PI2324\p6_S1_ej2\obj\Debug\p5_ej2.csproj.AssemblyReference.cache
+C:\Users\dimas\Desktop\PI2324\p6_S1_ej2\obj\Debug\p5_ej2.Form1.resources
+C:\Users\dimas\Desktop\PI2324\p6_S1_ej2\obj\Debug\p5_ej2.Properties.Resources.resources
+C:\Users\dimas\Desktop\PI2324\p6_S1_ej2\obj\Debug\p5_ej2.csproj.GenerateResource.cache
+C:\Users\dimas\Desktop\PI2324\p6_S1_ej2\obj\Debug\p5_ej2.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Desktop\PI2324\p5_ej2\obj\Debug\p5_ej2.csproj.AssemblyReference.cache
+C:\Users\dimas\Desktop\PI2324\p5_ej2\obj\Debug\p5_ej2.Form1.resources
+C:\Users\dimas\Desktop\PI2324\p5_ej2\obj\Debug\p5_ej2.Properties.Resources.resources
+C:\Users\dimas\Desktop\PI2324\p5_ej2\obj\Debug\p5_ej2.csproj.GenerateResource.cache
+C:\Users\dimas\Desktop\PI2324\p5_ej2\obj\Debug\p5_ej2.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Desktop\PI2324\p5_ej2\bin\Debug\p5_ej2.exe.config
+C:\Users\dimas\Desktop\PI2324\p5_ej2\bin\Debug\p5_ej2.exe
+C:\Users\dimas\Desktop\PI2324\p5_ej2\bin\Debug\p5_ej2.pdb
+C:\Users\dimas\Desktop\PI2324\p5_ej2\obj\Debug\p5_ej2.exe
+C:\Users\dimas\Desktop\PI2324\p5_ej2\obj\Debug\p5_ej2.pdb

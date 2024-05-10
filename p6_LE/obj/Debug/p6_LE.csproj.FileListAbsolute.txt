@@ -1,0 +1,10 @@
+C:\Users\dimas\Desktop\Practica-6\Práctica 6\sesion6ReadWrite\bin\Debug\p6_LE.exe.config
+C:\Users\dimas\Desktop\Practica-6\Práctica 6\sesion6ReadWrite\bin\Debug\p6_LE.exe
+C:\Users\dimas\Desktop\Practica-6\Práctica 6\sesion6ReadWrite\bin\Debug\p6_LE.pdb
+C:\Users\dimas\Desktop\Practica-6\Práctica 6\sesion6ReadWrite\obj\Debug\p6_LE.csproj.AssemblyReference.cache
+C:\Users\dimas\Desktop\Practica-6\Práctica 6\sesion6ReadWrite\obj\Debug\sesion6ReadWrite.Form1.resources
+C:\Users\dimas\Desktop\Practica-6\Práctica 6\sesion6ReadWrite\obj\Debug\p6_LE.Properties.Resources.resources
+C:\Users\dimas\Desktop\Practica-6\Práctica 6\sesion6ReadWrite\obj\Debug\p6_LE.csproj.GenerateResource.cache
+C:\Users\dimas\Desktop\Practica-6\Práctica 6\sesion6ReadWrite\obj\Debug\p6_LE.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Desktop\Practica-6\Práctica 6\sesion6ReadWrite\obj\Debug\p6_LE.exe
+C:\Users\dimas\Desktop\Practica-6\Práctica 6\sesion6ReadWrite\obj\Debug\p6_LE.pdb
